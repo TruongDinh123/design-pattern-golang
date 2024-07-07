@@ -1,0 +1,3 @@
+-  Channel là một cơ chế cho phép goroutine giao tiếp đồng thời với nhau.
+-  Cho phép bạn gửi và nhận các giá trị giữa goroutine.
+-  Giúp quản lí sự đồng bộ và chia sẻ dữ liệu một cách an toàn mà không cần sử dụng các khóa (locks)
