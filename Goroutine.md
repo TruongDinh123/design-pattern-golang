@@ -1,0 +1,3 @@
+- Goroutine là 1 thành phần quan trọng trong lập trình đồng thời (concurrency) của GO.
+- Cho phép thực hiện đồng thời nhiều tác vụ đồng thời mà không cần quản lý các luồng (threads) một cách thủ công
+- Goroutines rất nhẹ và hiệu quả, cho phép bạn khởi chạy hàng ngàn goroutines mà không gặp phải các vấn đề về hiệu suất như khi sử dụng các luồng hệ điều hành truyền thống
